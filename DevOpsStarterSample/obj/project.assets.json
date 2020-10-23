@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\course\\DevOpsStarterSample\\DevOpsStarterSample.csproj",
+      "projectUniqueName": "D:\\course\\gitupload\\DevOpsStarterSample\\DevOpsStarterSample.csproj",
       "projectName": "DevOpsStarterSample",
-      "projectPath": "D:\\course\\DevOpsStarterSample\\DevOpsStarterSample.csproj",
+      "projectPath": "D:\\course\\gitupload\\DevOpsStarterSample\\DevOpsStarterSample.csproj",
       "packagesPath": "C:\\Users\\kanha\\.nuget\\packages\\",
-      "outputPath": "D:\\course\\DevOpsStarterSample\\obj\\",
+      "outputPath": "D:\\course\\gitupload\\DevOpsStarterSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

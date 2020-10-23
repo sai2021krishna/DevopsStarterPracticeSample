@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQnYv3R51v/EDZM1+/AEotguksih95VUugKLi1KEgg38wM36GfdNbk8G7V603VNlBV8Ij5sVVKJPrsYO3BOKsg==",
+  "dgSpecHash": "TqfhF+KWIpxvsfNQ2WNhYm2uQMTDDUHvcAwEBGVV7ug/XruDmgLnlONrNmMhBXKsr9KU14vN57rfOHjPUGP2IA==",
   "success": true,
-  "projectFilePath": "D:\\course\\DevOpsStarterSample\\DevOpsStarterSample.csproj",
+  "projectFilePath": "D:\\course\\gitupload\\DevOpsStarterSample\\DevOpsStarterSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
